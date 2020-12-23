@@ -44,6 +44,20 @@ footer,header,hgroup,menu,nav,section {
     align-items: center;
     height: 480px;
     background-size: auto 100%;
+    background: url(image/header.png) center center;
+    background-image: url(image/header.png);
+    background-position-x: center;
+    background-position-y: center;
+    background-size: auto 100%;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
 
 }
 
@@ -82,6 +96,12 @@ footer,header,hgroup,menu,nav,section {
     justify-content: center;
 }
 
+#gnav li a {
+    color:#40BA95;
+    letter-spacing: -0.01em;
+    margin-left: 12px;
+}
+
 nav ul {
     list-style: none;
 }
@@ -115,12 +135,7 @@ dl, ol, ul {
     line-height: 1;
 }
 
-.fc {
-    color:#40BA95
-    text-decoration:none;
-}
-a {
-    color:#40BA95
-    text-decoration:none;
+.fa-user:before {
+    background: url(/image/women.png) no-repeat;
 }
 
