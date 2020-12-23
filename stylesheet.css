@@ -96,6 +96,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
+    margin:auto;
 }
 
 #gnav li{
