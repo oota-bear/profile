@@ -98,6 +98,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     justify-content: center;
 }
 
+#gnav li{
+    width:165px;
+    height:auto
+    text-align:center;
+}
+
+
 #gnav li a {
     color:#40BA95;
     letter-spacing: -0.01em;
@@ -138,8 +145,4 @@ dl, ol, ul {
     line-height: 1;
 }
 
-li.fas.fa-user fa-lg{
-weight:165px; 
-height:auto;
-}
 
