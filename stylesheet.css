@@ -137,7 +137,7 @@ dl, ol, ul {
     line-height: 1;
 }
 
-.fa-user:before {
-    background: url(/image/women.png) no-repeat;
+.women {
+    background: url(image/women.png) no-repeat;
 }
 
