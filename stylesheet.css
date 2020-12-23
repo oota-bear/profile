@@ -44,8 +44,8 @@ footer,header,hgroup,menu,nav,section {
     align-items: center;
     height: 480px;
     background-size: auto 100%;
-    background: url(header.png) center center;
-    background-image: url(header.png);
+    background: url(image/header.png) center center;
+    background-image: url(image/header.png);
     background-position-x: center;
     background-position-y: center;
     background-size: auto 100%;
