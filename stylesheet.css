@@ -103,6 +103,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     width:165px;
     height:auto
     text-align:center;
+    align-self: baseline;
 }
 
 
