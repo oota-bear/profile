@@ -61,6 +61,15 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+p.text{p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size:10px
+}
     
 
 article,aside,details,figcaption,figure,
