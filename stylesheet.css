@@ -54,6 +54,15 @@ h2 {
     font-weight: bold;
 }
 
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+    
+
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
     display:block;
