@@ -221,3 +221,11 @@ section {
     justify-content: space-between;
 }
 
+.two-column-image {
+    width: 33%;
+}
+
+.two-column-desc {
+    width: 62%;
+}
+
