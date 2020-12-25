@@ -182,6 +182,10 @@ section {
     display: block;
 }
 
+.section .section-desc {
+    text-align: center;
+}
+
 .inner {
     max-width: 1320px;
     width: 100%;
