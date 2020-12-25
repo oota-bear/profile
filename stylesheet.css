@@ -147,4 +147,7 @@ dl, ol, ul {
     line-height: 1;
 }
 
+section {
+    display: block;
+}
 
