@@ -22,55 +22,6 @@ time, mark, audio, video {
 body {
     line-height:1;
 }
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    margin-bottom: .5rem;
-    font-family: inherit;
-    font-weight: 500;
-    line-height: 1.2;
-    color: inherit;
-}
-
-.section .section-title {
-    font-family: 'Oswald', sans-serif;
-    letter-spacing: -0.01em;
-    display: inline-block;
-    font-size: 56px;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #444;
-}
-
-.h2, h2 {
-    font-size: 2rem;
-}
-
-h2 {
-    display: block;
-    font-size: 1.5em;
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-}
-
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-
-p.text{p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-size:10px
-}
-    
 
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
@@ -196,54 +147,4 @@ dl, ol, ul {
     line-height: 1;
 }
 
-section {
-    display: block;
-}
-
-.section .section-desc {
-    text-align: center;
-}
-
-.inner {
-    max-width: 1320px;
-    width: 100%;
-    margin: 0 auto;
-    margin-top: 0px;
-    margin-right: auto;
-    margin-bottom: 0px;
-    margin-left: auto;
-    padding: 0 10px;
-}
-
-.section .inner {
-    /* padding: 80px 10px; */
-    padding: 80px 10px 10px 0px;
-}
-
-.section .section-title-block {
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-.two-column-wrapper {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px 0;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-}
-
-.two-column-image {
-    width: 33%;
-}
-
-.two-column-desc {
-    width: 62%;
-}
 
